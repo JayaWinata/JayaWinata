@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   </a>
   <a>
-  <img src="https://img.shields.io/static/v1?message=jayawinata100@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  style="pointer-events: none;"/>
+  <img src="https://img.shields.io/static/v1?message=jayawinata100&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
 </div>
 
