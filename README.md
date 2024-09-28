@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/jaya-winata" target="_blank">
+  <a href="https://www.linkedin.com/in/jaya-winata" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/j.winz_/" target="_blank">
