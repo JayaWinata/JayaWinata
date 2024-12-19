@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
