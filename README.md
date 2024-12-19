@@ -25,15 +25,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jaya-winata" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
-    <img width="12" />
-
   <a href="https://www.instagram.com/j.winz_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   </a>
-    <img width="12" />
   <a href="https://www.kaggle.com/jayawinata" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="30" width="40"/>
-  <img width="12" />
   </a>
 </div>
 
