@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <div style="display: inline-block; background-color: #ffffff; padding: 5px; border-radius: 50%; height: 40px">
+  <div style="display: inline; background-color: #ffffff; padding: 5px; border-radius: 50%; height: 40px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX logo" style="width: 40px; height: 40px;">
 </div>
   <img width="12" />
