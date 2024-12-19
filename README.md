@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning at Brawijaya University<br>🎯 Goals: Mastering data science field<br>🎲 Fun fact: I can't talk to women😅<br>📫 How to reach me: jayawinata100@gmail.com</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning at Brawijaya University<br>🎯 Goals: Mastering AI and data science field<br>🎲 Fun fact: I can't talk to women😅<br>📫 How to reach me: jayawinata100@gmail.com</p>
 
 ###
 
