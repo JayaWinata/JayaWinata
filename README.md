@@ -31,6 +31,9 @@ Here are some ideas to get you started:
   <a href="https://www.kaggle.com/jayawinata" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="30" width="40"/>
   </a>
+  <a href="https://dagshub.com/jayawinata100" target="_blank">
+    <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61dccaba344d40f0d1d4a88b/42591a89-dd53-9730-9978-e3f57c30e7e7" height="30" width="40"/>
+  </a>
 </div>
 
 ###
