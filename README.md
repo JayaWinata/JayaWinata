@@ -99,9 +99,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
 </p>
 
-**Business Intellgience (BI) tools:**
+**Data Visualization and Business Intellgience (BI) tools:**
 
 <p style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="30" alt="matplotlib logo"/>
+  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" height="30" alt="seaborn logo"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png" height="30" alt="metabase logo"/>
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/microsoft-power-bi-8aa1an9fwajyvhbtwbp9ge.png/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.png?_a=DATAg1AAZAA0" height="30" alt="power_bi logo"/>
   <img src="https://strategicmarketsolutions.com/wp-content/uploads/2024/01/Looker-Studio-Logo.png" height="30" alt="looker_studio logo"/>
