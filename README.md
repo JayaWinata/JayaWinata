@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 <p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png" height="30" alt="metabase logo"/>
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/microsoft-power-bi-8aa1an9fwajyvhbtwbp9ge.png/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.png?_a=DATAg1AAZAA0" height="30" alt="power_bi logo"/>
-  <img src="https://images.seeklogo.com/logo-png/61/2/looker-studio-logo-png_seeklogo-617989.png" height="30" alt="looker_studio logo"/>
+  <img src="https://strategicmarketsolutions.com/wp-content/uploads/2024/01/Looker-Studio-Logo.png" height="30" alt="looker_studio logo"/>
 </p>
 
 **Database and Data Warehouse:**
@@ -155,7 +155,6 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JayaWinata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaWinata&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
