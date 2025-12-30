@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning at Brawijaya University<br>🎯 Goals: Mastering data and machine learning fields<br>🌱 I’m currently learning Machine Learning Operations (MLOps) and Deep Learning (including LLMs)<br>👯 I’m looking to collaborate on data science, data engineering, and machine learning (classic ML, deep learning or LLMs) projects, especially those involving real-world applications or open-source contributions.<br>🎲 Fun fact: I can't talk to women😅<br>📫 How to reach me: jayawinata100@gmail.com</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning at Brawijaya University<br>🎯 Goals: Mastering data and machine learning fields<br>🌱 I’m currently learning Machine Learning Operations (MLOps) and AI Engineering<br>👯 I’m looking to collaborate on data science, data engineering, and AI engineering projects, especially those involving real-world applications or open-source contributions.<br>🎲 Fun fact: I can't talk to women😅<br>📫 How to reach me: jayawinata100@gmail.com</p>
 
 ###
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 **Programming Languages:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -60,19 +60,27 @@ Here are some ideas to get you started:
 
 **Data Science & Machine Learning:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+</p>
+
+**AI Engineering:**
+
+<p style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain-color.png" height="30" alt="langchain logo" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langsmith-color.png" height="30" alt="langsmith logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30"/>
-  <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
-</p>
+   <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
+   <img src="https://camelot-py.readthedocs.io/en/master/_static/camelot.png" height="30"/>
+   <img src="https://pypi-camo.freetls.fastly.net/f416e258ab9b1da0c6f272ba09b6952606b00026/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f76696272616e746c61627361692f72616761732f6d61696e2f646f63732f5f7374617469632f696d67732f6c6f676f2e706e67" height="30"/>
 
 **Data Engineering and MLOps:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DATAdtAAZAA0" height="30" alt="dbt logo" />
   <img src="https://datahub.com/wp-content/uploads/2025/04/DataHub-Logo-5.svg" height="30" alt="datahub logo"/>
   <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" height="30" alt="airflow logo"/>
@@ -86,30 +94,33 @@ Here are some ideas to get you started:
 
 **Cloud Services:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
 </p>
 
 **Business Intellgience (BI) tools:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png" height="30" alt="metabase logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="30"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/microsoft-power-bi-8aa1an9fwajyvhbtwbp9ge.png/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.png?_a=DATAg1AAZAA0" height="30" alt="power_bi logo"/>
+  <img src="https://images.seeklogo.com/logo-png/61/2/looker-studio-logo-png_seeklogo-617989.png" height="30" alt="looker_studio logo"/>
 </p>
 
 **Database and Data Warehouse:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="30"/>
   <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" height="30" alt="clickhouse logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"/>
+  <img src="https://qdrant.tech/images/logo_with_text.png" height="30" alt="qdrant logo"/>
+  <img src="https://docs.trychroma.com/favicon.ico" height="30" alt="chroma logo"/>
 </p>
 
 **Web Development:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="30"/>
@@ -121,7 +132,7 @@ Here are some ideas to get you started:
 
 **Design Tools:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
@@ -129,7 +140,7 @@ Here are some ideas to get you started:
 
 **Others:**
 
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
