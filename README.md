@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning at Brawijaya University<br>🎯 Goals: Mastering data and machine learning fields<br>🌱 I’m currently learning Machine Learning Operations (MLOps) and AI Engineering<br>👯 I’m looking to collaborate on data science, data engineering, and AI engineering projects, especially those involving real-world applications or open-source contributions.<br>🎲 Fun fact: I can't talk to women😅<br>📫 How to reach me: jayawinata100@gmail.com</p>
+<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: Mastering AI and data fields<br>🌱 I’m currently learning AI Engineering<br>👯 I’m looking to collaborate on data science, data engineering, and AI engineering projects, especially those involving real-world applications or open-source contributions<br>📫 How to reach me: jayawinata100@gmail.com</p>
 
 ###
 
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="javascript logo" />
 </p>
 
 **Data Science & Machine Learning:**
@@ -75,7 +76,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30"/>
    <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
-   <img src="https://camelot-py.readthedocs.io/en/master/_static/camelot.png" height="30"/>
    <img src="https://pypi-camo.freetls.fastly.net/f416e258ab9b1da0c6f272ba09b6952606b00026/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f76696272616e746c61627361692f72616761732f6d61696e2f646f63732f5f7374617469632f696d67732f6c6f676f2e706e67" height="30"/>
 
 **Data Engineering and MLOps:**
@@ -114,10 +114,10 @@ Here are some ideas to get you started:
 <p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="30"/>
-  <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" height="30" alt="clickhouse logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" height="30"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"/>
   <img src="https://qdrant.tech/images/logo_with_text.png" height="30" alt="qdrant logo"/>
-  <img src="https://docs.trychroma.com/favicon.ico" height="30" alt="chroma logo"/>
+  <img src="https://www.streamlinehq.com/icons/download/chroma--31103" height="30" alt="chroma logo"/>
 </p>
 
 **Web Development:**
@@ -152,7 +152,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">🔥 My stats</h2>
+<!-- <h2 align="left">🔥 My stats</h2>
 
 ###
 
@@ -160,4 +160,4 @@ Here are some ideas to get you started:
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaWinata&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+### -->
