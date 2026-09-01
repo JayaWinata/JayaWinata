@@ -75,8 +75,10 @@ Here are some ideas to get you started:
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langsmith-color.png" height="30" alt="langsmith logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30"/>
-   <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
-   <img src="https://pypi-camo.freetls.fastly.net/f416e258ab9b1da0c6f272ba09b6952606b00026/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f76696272616e746c61627361692f72616761732f6d61696e2f646f63732f5f7374617469632f696d67732f6c6f676f2e706e67" height="30"/>
+  <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
+  <img src="https://www.vectorlogo.zone/logos/gradioapp/gradioapp-icon.svg" height="30" alt="gradio logo" />
+</p>
 
 **Data Engineering and MLOps:**
 
