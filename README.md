@@ -1,23 +1,16 @@
 <!--
 **JayaWinata/JayaWinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Jaya Winata and I'm a AI and Data Enthusiast from Indonesia. I have a strong foundation AI engineering, data engineering, machine learning and programming. I am actively expanding my knowledge through online courses, independent learning and projects. I am eager to leverage my skills in AI and data to contribute to a team where I can learn from experienced professionals and apply my passion for data and machine learning in real-world scenarios.</p>
+<p align="left">
+  <b>Jaya Winata</b> · Informatics Engineering Graduate (GPA 3.80/4.00) · Malang, Indonesia<br>
+  🚀 Passionate about bridging the gap between cutting-edge AI research and production-grade systems.
+  I specialize in building <b>RAG-based LLM agents</b>, <b>automated data engineering pipelines</b>, and <b>scalable ML systems</b>.
+</p>
 
 ###
 
@@ -42,7 +35,47 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: Mastering AI and data fields<br>🌱 I’m currently learning AI Engineering<br>👯 I’m looking to collaborate on data science, data engineering, and AI engineering projects, especially those involving real-world applications or open-source contributions<br>📫 How to reach me: jayawinata100@gmail.com</p>
+<p align="left">
+  💼 <b>Experience:</b> Ex-AI Engineer @ AITF (KOMDIGI × UB) | Ex-Data Engineer Intern @ PT. Jalin Mayantara Indonesia<br>
+  🎯 <b>Goals:</b> Mastering AI Engineering, Data Engineering & MLOps<br>
+  🌱 <b>Currently:</b> Exploring RAG-Fusion, LLM Agents & MLOps Pipelines<br>
+  👯 <b>Open to:</b> Collaborations on data-driven projects or AI research<br>
+  📫 <b>Contact:</b> jayawinata100@gmail.com
+</p>
+
+###
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+###
+
+<p align="left">
+  <a href="https://github.com/JayaWinata/medical-RAG"><b>Medical RAG Research (Thesis)</b></a> · 
+  RAG-Fusion with Reciprocal Rank Fusion on 106 Indonesian clinical records · 
+  Docling PDF parsing + Qdrant + DeepEval (>85% faithfulness)
+</p>
+
+<p align="left">
+  <a href="https://github.com/JayaWinata/Nexora-Chatbot"><b>Nexora AI Chatbot</b></a> · 
+  Multi-agent RAG chatbot with OpenAI function calling for financial data & QuickChart visualizations · 
+  LangChain + ChromaDB + Gradio
+</p>
+
+<p align="left">
+  <a href="https://github.com/JayaWinata/Network-Security-System"><b>Phishing Detection System (MLOps)</b></a> · 
+  End-to-end ML pipeline with FastAPI, MLflow/DagsHub tracking, Docker, GitHub Actions CI/CD → Azure · 
+  94% accuracy
+</p>
+
+<p align="left">
+  <a href="https://github.com/JayaWinata/Coffee-Shop-Sales-Data-Ingestion"><b>Coffee Shop Sales ETL</b></a> · 
+  Automated Airflow + ClickHouse pipeline processing 5,000+ daily records · Dockerized
+</p>
+
+<p align="left">
+  <a href="https://github.com/JayaWinata/AetherCorp-RAG"><b>AetherCorp RAG Knowledge Base</b></a> · 
+  Enterprise RAG with HuggingFace embeddings + Chroma + GPT-4o-mini for executive reports
+</p>
 
 ###
 
@@ -134,29 +167,13 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="30"/>
 </p>
 
+###
 
-<!-- <p style="display: flex; gap: 20px; align-items: center;">
-**Design Tools:**
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-</p> -->
-
-
-<!-- <p style="display: flex; gap: 20px; align-items: center;">
-**Others:**
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="30" alt="latex logo" style="background: #fff; border-radius: 8px; padding: 2px;" /> -->
-
-<!-- <h2 align="left">🔥 My stats</h2>
+<h2 align="left">🤝 Let's Connect!</h2>
 
 ###
 
-<div align="left">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaWinata&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-### -->
+<p align="left">
+  Open to collaborations on data-driven projects or AI research.<br>
+  Feel free to reach out via <a href="mailto:jayawinata100@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/jaya-winata">LinkedIn</a>.
+</p>
