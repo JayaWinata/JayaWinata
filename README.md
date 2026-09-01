@@ -77,7 +77,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30"/>
   <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
-  <img src="https://www.vectorlogo.zone/logos/gradioapp/gradioapp-icon.svg" height="30" alt="gradio logo" />
+  <img src="https://img.stackshare.io/service/11484/gradio.png" height="30" alt="gradio logo" />
+  <img src="https://img.stackshare.io/service/136706/default_8a4365d8.png" height="30" alt="deepeval logo" />
 </p>
 
 **Data Engineering and MLOps:**
