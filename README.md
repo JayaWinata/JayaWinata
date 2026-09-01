@@ -7,6 +7,7 @@
 ###
 
 <p align="left">
+  <img align="right" src="assets/profile.jpg" width="150" style="border-radius: 50%;" />
   <b>Jaya Winata</b> · Informatics Engineering Graduate (GPA 3.80/4.00) · Malang, Indonesia<br>
   🚀 Passionate about bridging the gap between cutting-edge AI research and production-grade systems.
   I specialize in building <b>RAG-based LLM agents</b>, <b>automated data engineering pipelines</b>, and <b>scalable ML systems</b>.
