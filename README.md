@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Jaya Winata and I'm a Data & Machine Learning Enthusiast, from Indonesia. I have a strong foundation in data mining, programming, machine learning (including deep Learning and LLM). I am actively expanding my knowledge through online courses, independent learning and personal projects. I am eager to leverage my skills in Data, and Machine Learning to contribute to a team where I can learn from experienced professionals and apply my passion for data and machine learning in real-world scenarios.</p>
+<p align="left">My name is Jaya Winata and I'm a Data & Machine Learning Enthusiast, from Indonesia. I have a strong foundation in data mining, programming, machine learning (including deep Learning and LLM). I am actively expanding my knowledge through online courses, independent learning and personal projects. I am eager to leverage my skills in Data, and Machine Learning to contribute to a team where I can learn from experienced professionals and apply my passion for data and machine learning in real-world scenarios.</p>
 
 ###
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: Mastering AI and data fields<br>🌱 I’m currently learning AI Engineering<br>👯 I’m looking to collaborate on data science, data engineering, and AI engineering projects, especially those involving real-world applications or open-source contributions<br>📫 How to reach me: jayawinata100@gmail.com</p>
+<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: Mastering AI and data fields<br>🌱 I'm currently learning AI Engineering<br>👯 I'm looking to collaborate on data science, data engineering, and AI engineering projects, especially those involving real-world applications or open-source contributions<br>📫 How to reach me: jayawinata100@gmail.com</p>
 
 ###
 
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30"/>
   <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
-  <img src="https://img.stackshare.io/service/11484/gradio.png" height="30" alt="gradio logo" />
-  <img src="https://img.stackshare.io/service/136706/default_8a4365d8.png" height="30" alt="deepeval logo" />
+  <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/js/_website/src/lib/assets/brand-assets/gradio-logo.svg" height="30" alt="gradio logo" />
+  <img src="https://confident-ai-production.s3.us-east-2.amazonaws.com/Confident+AI-logo.png" height="30" alt="deepeval logo" />
 </p>
 
 **Data Engineering and MLOps:**
