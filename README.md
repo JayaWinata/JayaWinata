@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   <img src="https://www.thesoftwarereport.com/wp-content/uploads/2023/09/Hugging-Face2.png" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
   <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/js/_website/src/lib/assets/brand-assets/gradio-logo.svg" height="30" alt="gradio logo" />
-  <img src="https://raw.githubusercontent.com/confident-ai/deepeval/main/docs/docs/static/img/icon.png" height="30" alt="deepeval logo" />
+  <img src="https://raw.githubusercontent.com/confident-ai/deepeval/main/docs/public/img/deepeval.png" height="30" alt="deepeval logo" />
 </p>
 
 **Data Engineering and MLOps:**
