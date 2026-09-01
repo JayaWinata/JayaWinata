@@ -10,7 +10,7 @@
 <p align="left">
   <b>Jaya Winata</b> · Informatics Engineering Graduate (GPA 3.80/4.00) · Malang, Indonesia<br>
   🚀 Passionate about bridging the gap between cutting-edge AI research and production-grade systems.
-  I specialize in building <b>RAG-based LLM agents</b>, <b>automated data engineering pipelines</b>, and <b>scalable ML systems</b>.
+  I specialize in building <b>LLM agents</b>, <b>fine-tuning LLMs</b>, <b>automated data engineering pipelines</b>, and <b>scalable ML systems</b>.
 </p>
 
 ###
@@ -37,9 +37,9 @@
 ###
 
 <p align="left">
-  💼 <b>Experience:</b> Ex-AI Engineer @ AITF (KOMDIGI × UB) | Ex-Data Engineer Intern @ PT. Jalin Mayantara Indonesia<br>
-  🎯 <b>Goals:</b> Mastering AI Engineering, Data Engineering & MLOps<br>
-  🌱 <b>Currently:</b> Exploring RAG-Fusion, LLM Agents & MLOps Pipelines<br>
+  💼 <b>Experience:</b> Ex-AI Engineer @ AITF (KOMDIGI × UB) and Brawijaya Career Center | Ex-Data Engineer Intern @ PT. Jalin Mayantara Indonesia<br>
+  🎯 <b>Goals:</b> Mastering AI Engineering, Data Engineering & Machine Learning<br>
+  🌱 <b>Currently:</b> Exploring AI and data engineering fields<br>
   👯 <b>Open to:</b> Collaborations on data-driven projects or AI research<br>
   📫 <b>Contact:</b> jayawinata100@gmail.com
 </p>
