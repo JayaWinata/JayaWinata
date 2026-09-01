@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Jaya Winata and I'm a Data & Machine Learning Enthusiast, from Indonesia. I have a strong foundation in data mining, programming, machine learning (including deep Learning and LLM). I am actively expanding my knowledge through online courses, independent learning and personal projects. I am eager to leverage my skills in Data, and Machine Learning to contribute to a team where I can learn from experienced professionals and apply my passion for data and machine learning in real-world scenarios.</p>
+<p align="left">My name is Jaya Winata and I'm a AI and Data Enthusiast from Indonesia. I have a strong foundation AI engineering, data engineering, machine learning and programming. I am actively expanding my knowledge through online courses, independent learning and projects. I am eager to leverage my skills in AI and data to contribute to a team where I can learn from experienced professionals and apply my passion for data and machine learning in real-world scenarios.</p>
 
 ###
 
