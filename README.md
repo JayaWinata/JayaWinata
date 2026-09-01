@@ -6,7 +6,7 @@
 
 ###
 
-![Profile](https://github.com/JayaWinata/JayaWinata/blob/main/assets/Jaya%20Winata.jpg)
+![Profile](https://github.com/JayaWinata/JayaWinata/blob/main/assets/Jaya%20Winata_l.jpg)
 <p align="left">
   <b>Jaya Winata</b> · Informatics Engineering Graduate (GPA 3.80/4.00) · Malang, Indonesia<br>
   🚀 Passionate about bridging the gap between cutting-edge AI research and production-grade systems.
