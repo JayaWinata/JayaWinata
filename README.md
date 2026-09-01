@@ -46,40 +46,6 @@
 
 ###
 
-<h2 align="left">🚀 Featured Projects</h2>
-
-###
-
-<p align="left">
-  <a href="https://github.com/JayaWinata/medical-RAG"><b>Medical RAG Research (Thesis)</b></a> · 
-  RAG-Fusion with Reciprocal Rank Fusion on 106 Indonesian clinical records · 
-  Docling PDF parsing + Qdrant + DeepEval (>85% faithfulness)
-</p>
-
-<p align="left">
-  <a href="https://github.com/JayaWinata/Nexora-Chatbot"><b>Nexora AI Chatbot</b></a> · 
-  Multi-agent RAG chatbot with OpenAI function calling for financial data & QuickChart visualizations · 
-  LangChain + ChromaDB + Gradio
-</p>
-
-<p align="left">
-  <a href="https://github.com/JayaWinata/Network-Security-System"><b>Phishing Detection System (MLOps)</b></a> · 
-  End-to-end ML pipeline with FastAPI, MLflow/DagsHub tracking, Docker, GitHub Actions CI/CD → Azure · 
-  94% accuracy
-</p>
-
-<p align="left">
-  <a href="https://github.com/JayaWinata/Coffee-Shop-Sales-Data-Ingestion"><b>Coffee Shop Sales ETL</b></a> · 
-  Automated Airflow + ClickHouse pipeline processing 5,000+ daily records · Dockerized
-</p>
-
-<p align="left">
-  <a href="https://github.com/JayaWinata/AetherCorp-RAG"><b>AetherCorp RAG Knowledge Base</b></a> · 
-  Enterprise RAG with HuggingFace embeddings + Chroma + GPT-4o-mini for executive reports
-</p>
-
-###
-
 <h2 align="left">🛠️ Languages and Tools</h2>
 
 ###
